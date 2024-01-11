@@ -4,3 +4,6 @@
 [submodule "repo/skin.arctic.horizon.2.mod"]
 	path = repo/skin.arctic.horizon.2.mod
 	url = https://github.com/mariango2/skin.arctic.horizon.2.mod
+[submodule "repo/script.module.trakt.mod"]
+	path = repo/script.module.trakt.mod
+	url = https://github.com/mariango2/script.module.trakt.mod
