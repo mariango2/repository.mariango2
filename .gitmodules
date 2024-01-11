@@ -1,3 +1,6 @@
 [submodule "repo/skin.estuary.mod"]
 	path = repo/skin.estuary.mod
 	url = https://github.com/mariango2/skin.estuary.mod
+[submodule "repo/skin.arctic.horizon.2.mod"]
+	path = repo/skin.arctic.horizon.2.mod
+	url = https://github.com/mariango2/skin.arctic.horizon.2.mod
