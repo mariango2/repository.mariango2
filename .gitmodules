@@ -10,3 +10,6 @@
 [submodule "repo/script.trakt.mod"]
 	path = repo/script.trakt.mod
 	url = https://github.com/mariango2/script.trakt.mod
+[submodule "repo/script.artwork.dump.mod"]
+	path = repo/script.artwork.dump.mod
+	url = https://github.com/mariango2/script.artwork.dump.mod
