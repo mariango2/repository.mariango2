@@ -13,3 +13,6 @@
 [submodule "repo/script.artwork.dump.mod"]
 	path = repo/script.artwork.dump.mod
 	url = https://github.com/mariango2/script.artwork.dump.mod
+[submodule "repo/plugin.video.osmosis.mod"]
+	path = repo/plugin.video.osmosis.mod
+	url = https://github.com/mariango2/plugin.video.osmosis.mod
