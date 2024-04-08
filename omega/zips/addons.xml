@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="skin.arctic.horizon.2.mod" name="Arctic Horizon 2 Mod" provider-name="mariango2" version="1.0.5~omega">
+    <requires>
+        <import addon="xbmc.gui" version="5.17.0" />
+        <import addon="script.skinshortcuts" version="0.4.0" />
+        <import addon="script.skinvariables" version="1.0.0" />
+        <import addon="script.texturemaker" version="0.2.8" />
+        <import addon="plugin.video.themoviedb.helper" version="5.1.11~nexus" />
+        <import addon="resource.images.weathericons.white" version="0.0.1" />
+        <import addon="resource.images.studios.coloured" version="0.0.1" />
+        <import addon="resource.font.robotocjksc" version="0.0.1" />
+    </requires>
+    <extension debugging="false" defaultthemename="Textures.xbt" effectslowdown="1" point="xbmc.gui.skin">
+        <res aspect="16:9" default="true" folder="1080i" height="1080" width="1920" />
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Minimal. Classic. Gradients. Widgets.</summary>
+        <description lang="en">Arctic Horizon 2 Mod</description>
+        <platform>all</platform>
+        <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
+        <forum />
+        <source />
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="skin.estuary.mod" version="1.2.0~omega" name="Estuary Mod" provider-name="mariango2">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0" />
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<source>https://github.com/mariango2/skin.estuary.mod/</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshot-08.jpg</screenshot>
+		</assets>
+		<summary lang="de_DE">Estuary Skin modifiziert von mariango2.</summary>
+		<summary lang="en_GB">Estuary skin modified by mariango2.</summary>
+		<summary lang="en_NZ">Estuary skin modified by mariango2.</summary>
+		<summary lang="en_US">Estuary skin modified by mariango2.</summary>
+		<description lang="de_DE">Estuary ist der Standardskin für Kodi 17.0 und höher. Diese Modifizierung versteckt die Bewertungen von IMDB, TMDB, etc.</description>
+		<description lang="en_GB">Estuary is the default skin for Kodi 17.0 and above. This modification hides the ratings from IMDB, TDMB, etc.</description>
+		<description lang="en_NZ">Estuary is the default skin for Kodi 17.0 and above. This modification hides the ratings from IMDB, TDMB, etc.</description>
+		<description lang="en_US">Estuary is the default skin for Kodi 17.0 and above. This modification hides the ratings from IMDB, TDMB, etc.</description>
+	</extension>
+</addon></addons>
