@@ -1,8 +1,8 @@
-[submodule "repo/skin.estuary.mod"]
-	path = repo/skin.estuary.mod
+[submodule "nexus/skin.estuary.mod"]
+	path = nexus/skin.estuary.mod
 	url = https://github.com/mariango2/skin.estuary.mod
-[submodule "repo/skin.arctic.horizon.2.mod"]
-	path = repo/skin.arctic.horizon.2.mod
+[submodule "nexus/skin.arctic.horizon.2.mod"]
+	path = nexus/skin.arctic.horizon.2.mod
 	url = https://github.com/mariango2/skin.arctic.horizon.2.mod
 [submodule "repo/script.module.trakt.mod"]
 	path = repo/script.module.trakt.mod
@@ -16,3 +16,11 @@
 [submodule "repo/plugin.video.osmosis.mod"]
 	path = repo/plugin.video.osmosis.mod
 	url = https://github.com/mariango2/plugin.video.osmosis.mod
+[submodule "omega/skin.estuary.mod"]
+	path = omega/skin.estuary.mod
+	url = https://github.com/mariango2/skin.estuary.mod
+	branch = omega
+[submodule "omega/skin.arctic.horizon.2.mod"]
+	path = omega/skin.arctic.horizon.2.mod
+	url = https://github.com/mariango2/skin.arctic.horizon.2.mod
+	branch = omega
