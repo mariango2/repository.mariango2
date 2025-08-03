@@ -24,3 +24,6 @@
 	path = omega/skin.arctic.horizon.2.mod
 	url = https://github.com/mariango2/skin.arctic.horizon.2.mod
 	branch = omega
+[submodule "repo/plugin.video.themoviedb.helper.mod"]
+	path = repo/plugin.video.themoviedb.helper.mod
+	url = https://github.com/mariango2/plugin.video.themoviedb.helper.mod
