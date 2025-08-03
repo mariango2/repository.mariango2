@@ -35,7 +35,7 @@
 		<language>en de</language>
 		<reuselanguageinvoker>true</reuselanguageinvoker>
 	</extension>
-</addon><addon id="plugin.video.themoviedb.helper.mod" version="1.0.0" name="TMDb Helper (Mod)" provider-name="jurialmunkey, mariango2">
+</addon><addon id="plugin.video.themoviedb.helper.mod" version="1.0.1" name="TMDb Helper (Mod)" provider-name="jurialmunkey, mariango2">
 <requires>
   <import addon="xbmc.python" version="3.0.1" />
   <import addon="script.module.requests" version="2.9.1" />

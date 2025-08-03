@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.themoviedb.helper.mod"
-version="1.0.0"
+version="1.0.1"
 name="TMDb Helper (Mod)"
 provider-name="jurialmunkey, mariango2">
 <requires>
