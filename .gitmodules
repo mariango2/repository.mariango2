@@ -27,3 +27,6 @@
 [submodule "repo/plugin.video.themoviedb.helper.mod"]
 	path = repo/plugin.video.themoviedb.helper.mod
 	url = https://github.com/mariango2/plugin.video.themoviedb.helper.mod
+[submodule "repo/plugin.video.jellyfin"]
+	path = repo/plugin.video.jellyfin
+	url = https://github.com/mariango2/plugin.video.jellyfin.git
